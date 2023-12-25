@@ -9,10 +9,6 @@ I'm a passionate developer with a love for creating innovative solutions. When I
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 <!-- Add more badges from https://shields.io -->
 
-## 🌟 Highlight Projects
-- **[Project Name 1](GitHub-Link)**: A brief description of what the project does.
-- **[Project Name 2](GitHub-Link)**: An innovative project that solves X problem.
-
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Zw3tty&show_icons=true&theme=radical)
 
