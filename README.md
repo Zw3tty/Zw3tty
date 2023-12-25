@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Zw3tty
-- 👀 I’m interested in: Making computer program such as csgo cheats/mods
-- 🌱 I’m currently learning: C++, C#, LUA, LuaJit, Scripting
-- 💞️ I’m looking to collaborate on: creating CS:GO cheats etc
-- 📫 How to reach me: You can reach me on my discord "Zw3tty#0001" and my Twitter "@zw3tty"
+# Hello, I'm NotZw3tty! 👋
 
-<!---
-Zw3tty/Zw3tty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I'm a passionate developer with a love for creating innovative solutions. When I'm not coding, you might find me exploring new technologies or contributing to open-source projects.
+
+## 💻 Skills
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+<!-- Add more badges from https://shields.io -->
+
+## 🌟 Highlight Projects
+- **[Project Name 1](GitHub-Link)**: A brief description of what the project does.
+- **[Project Name 2](GitHub-Link)**: An innovative project that solves X problem.
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+- **Discord**: notzw3tty
+
+Feel free to fork this template and make it your own!
