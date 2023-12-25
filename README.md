@@ -14,7 +14,7 @@ I'm a passionate developer with a love for creating innovative solutions. When I
 - **[Project Name 2](GitHub-Link)**: An innovative project that solves X problem.
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Zw3tty&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 - **Discord**: notzw3tty
